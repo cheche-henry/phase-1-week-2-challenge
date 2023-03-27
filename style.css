@@ -33,6 +33,7 @@ html, body {
   align-items: center;
   border-radius: 2em;
   border: 1px solid white;
+  cursor: pointer;
 }
 
 .characterInfo{
